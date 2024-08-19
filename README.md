@@ -24,7 +24,7 @@ To set up a Linux machine and practice essential tasks such as user management, 
 
 > For this guide, we will install the user-friendly `Ubuntu`, specifically the [desktop version](https://ubuntu.com/download/desktop). If you prefer `Kali`, you can refer to this [guide](https://github.com/mmhgwyjs/pentest-lab).
 
-***4. Creating the virtual machines.***
+***3. Creating the virtual machines.***
 
 > I use VMware Workstation for this, but the same concept can be applied to VirtualBox.
 

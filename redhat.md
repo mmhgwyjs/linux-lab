@@ -66,4 +66,25 @@ sudo ./splunk start
 
 ![image](https://github.com/user-attachments/assets/9cd73fa8-dca5-4a73-865a-7e068b52eb4e)
 
+https://github.com/splunk/botsv3?tab=readme-ov-file
+
+
+![image](https://github.com/user-attachments/assets/83fd0539-0c01-4398-99bc-6ff32c08db71)
+
+
+![image](https://github.com/user-attachments/assets/c98147eb-95ef-4347-bb10-cd3286c3b84f)
+
+
+![image](https://github.com/user-attachments/assets/896c5f04-72e3-442e-bef3-a2badf6df304)
+
+[splnk@localhost /]$ cd /opt/splunk/bin/
+[splnk@localhost bin]$ sudo ./splunk stop
+
+
+
+![image](https://github.com/user-attachments/assets/fcd56231-c696-42ec-acab-285a100183b3)
+
+
+
+
 

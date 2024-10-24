@@ -27,3 +27,43 @@
 ![image](https://github.com/user-attachments/assets/4247f9a6-5437-4e78-90e3-290c6e2e315c)
 
 ![image](https://github.com/user-attachments/assets/c24706c4-e677-421a-bed0-8059340013db)
+
+![image](https://github.com/user-attachments/assets/bf97e50d-7101-4c3a-b343-e8d7dad8699e)
+
+![image](https://github.com/user-attachments/assets/46475177-7946-4614-aa90-e91c80280d96)
+
+![image](https://github.com/user-attachments/assets/90f7b1da-2e75-4353-99be-395348690183)
+
+
+![image](https://github.com/user-attachments/assets/39bee0b9-d9c8-4a71-9852-68e88e3aec71)
+
+sudo rpm -i splunk-9.3.1-0b8d769cb912.x86_64.rpm 
+
+
+![image](https://github.com/user-attachments/assets/1e04c571-374c-4750-a0a3-426c83e367ba)
+
+
+![image](https://github.com/user-attachments/assets/3874e8be-a467-4949-a565-a038f86a058b)
+
+/opt/splunk/bin/splunk start
+
+
+
+![image](https://github.com/user-attachments/assets/731e6b69-5931-4649-a47a-b7aa7d1f3bbb)
+
+sudo ./splunk start
+
+
+
+![image](https://github.com/user-attachments/assets/0bb6c492-5cc8-4dcf-8129-80eaee098c7e)
+
+
+![image](https://github.com/user-attachments/assets/0e30da16-0e39-47ab-bec8-42da4b25b1e8)
+
+
+![image](https://github.com/user-attachments/assets/168e5521-0831-4c08-bd95-3fbbafe8306a)
+
+
+![image](https://github.com/user-attachments/assets/9cd73fa8-dca5-4a73-865a-7e068b52eb4e)
+
+

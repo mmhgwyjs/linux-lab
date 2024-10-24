@@ -77,7 +77,10 @@ To set up a Linux machine and practice essential tasks such as user management, 
 
 ## Lab Exercises
 
-- Coming soon
+| Exercise              | Description                                           | Link                                                      | Status       |
+|--------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
+| Installing Red Hat Enterprise Linux (RHEL) | Install Red Hat Enterprise Linux (RHEL) on a virtual machine, covering system requirements, partitioning, and post-installation setup.| [View Exercise](https://github.com/mmhgwyjs/linux-lab/blob/main/redhat.md)       | Completed    |
+| Setting Up MFA | Implement Multi-Factor Authentication (MFA) on a Linux system using tools like Google Authenticator.| [View Exercise](https://github.com/mmhgwyjs/linux-lab/blob/main/MFA.md)       | Completed    |
 
 
 
